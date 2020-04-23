@@ -1,0 +1,17 @@
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#item1 {
+  border: 1px red solid;
+  width: 40%;
+  height: 20px;
+}
+
+#item2 {
+  border: 1px blue solid;
+  width: 40%;
+  height: 20px;
+}
